@@ -1,0 +1,38 @@
+img {
+    width: 100%;
+}
+
+nav a, nav li {
+    color: orange;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Pacifico", cursive;
+    text-align: center;
+}
+
+body {
+    font-family: "Roboto", serif;
+}
+
+header {
+    background-color: #FE4B4B;
+    text-align: center;
+}
+
+.mot {
+    color: pink;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
